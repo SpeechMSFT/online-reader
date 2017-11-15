@@ -1,0 +1,4 @@
+./gactions update --action_package action.json --project online-reader
+
+github for speech.msft@gmail.com
+speech@msft01
